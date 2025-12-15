@@ -28,6 +28,6 @@
 - 🔗 Additional resources
 ---
 
-# [Day 1 - Build a Minimal Docker Image](https://github.com/MikeyLuo/Advent-of-DevOps/tree/main/Day%201%20-%20Building%20a%20Minimal%20Docker%20Image)
-
+### Day 1 - [Build a Minimal Docker Image](https://github.com/MikeyLuo/Advent-of-DevOps/tree/main/Day%201%20-%20Building%20a%20Minimal%20Docker%20Image)
+### Day 2 - [Fix the slow Docker build](https://github.com/MikeyLuo/Advent-of-DevOps/tree/main/Day%202%20-%20Fix%20the%20slow%20Docker%20Build)
 ---
